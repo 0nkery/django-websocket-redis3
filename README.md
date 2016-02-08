@@ -1,3 +1,9 @@
+DISCLAMER
+=========
+
+This repo is abandoned because main library supports Python 3 now.
+
+
 django-websocket-redis3
 ======================
 
